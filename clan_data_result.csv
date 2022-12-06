@@ -1,0 +1,121 @@
+main_class,sub_class,main_index,sub_index,win_count,total_count,win_rate
+Awoken,Hellhorned,0,0,27,52,0.5192307692307693
+Awoken,Hellhorned,0,1,9,9,1.0
+Awoken,Hellhorned,1,0,72,75,0.96
+Awoken,Hellhorned,1,1,23,25,0.92
+Awoken,Melting Remnant,0,0,22,40,0.55
+Awoken,Melting Remnant,0,1,15,15,1.0
+Awoken,Melting Remnant,1,0,19,23,0.8260869565217391
+Awoken,Melting Remnant,1,1,30,31,0.967741935483871
+Awoken,Stygian Guard,0,0,27,52,0.5192307692307693
+Awoken,Stygian Guard,0,1,16,17,0.9411764705882353
+Awoken,Stygian Guard,1,0,14,14,1.0
+Awoken,Stygian Guard,1,1,20,24,0.8333333333333334
+Awoken,Umbra,0,0,16,38,0.42105263157894735
+Awoken,Umbra,0,1,17,17,1.0
+Awoken,Umbra,1,0,32,36,0.8888888888888888
+Awoken,Umbra,1,1,10,12,0.8333333333333334
+Awoken,Wurmkin,0,0,10,10,1.0
+Awoken,Wurmkin,0,1,4,4,1.0
+Awoken,Wurmkin,1,0,15,16,0.9375
+Awoken,Wurmkin,1,1,13,13,1.0
+Hellhorned,Awoken,0,0,47,95,0.49473684210526314
+Hellhorned,Awoken,0,1,28,28,1.0
+Hellhorned,Awoken,1,0,12,14,0.8571428571428571
+Hellhorned,Awoken,1,1,10,10,1.0
+Hellhorned,Melting Remnant,0,0,27,44,0.6136363636363636
+Hellhorned,Melting Remnant,0,1,21,25,0.84
+Hellhorned,Melting Remnant,1,0,11,12,0.9166666666666666
+Hellhorned,Melting Remnant,1,1,14,15,0.9333333333333333
+Hellhorned,Stygian Guard,0,0,37,56,0.6607142857142857
+Hellhorned,Stygian Guard,0,1,10,13,0.7692307692307693
+Hellhorned,Stygian Guard,1,0,11,12,0.9166666666666666
+Hellhorned,Stygian Guard,1,1,8,10,0.8
+Hellhorned,Umbra,0,0,25,48,0.5208333333333334
+Hellhorned,Umbra,0,1,17,17,1.0
+Hellhorned,Umbra,1,0,13,13,1.0
+Hellhorned,Umbra,1,1,11,11,1.0
+Hellhorned,Wurmkin,0,0,14,18,0.7777777777777778
+Hellhorned,Wurmkin,0,1,7,7,1.0
+Hellhorned,Wurmkin,1,0,10,10,1.0
+Hellhorned,Wurmkin,1,1,6,7,0.8571428571428571
+Melting Remnant,Awoken,0,0,21,48,0.4375
+Melting Remnant,Awoken,0,1,12,12,1.0
+Melting Remnant,Awoken,1,0,25,27,0.9259259259259259
+Melting Remnant,Awoken,1,1,44,46,0.9565217391304348
+Melting Remnant,Hellhorned,0,0,34,83,0.40963855421686746
+Melting Remnant,Hellhorned,0,1,14,14,1.0
+Melting Remnant,Hellhorned,1,0,35,35,1.0
+Melting Remnant,Hellhorned,1,1,19,22,0.8636363636363636
+Melting Remnant,Stygian Guard,0,0,30,54,0.5555555555555556
+Melting Remnant,Stygian Guard,0,1,13,14,0.9285714285714286
+Melting Remnant,Stygian Guard,1,0,31,31,1.0
+Melting Remnant,Stygian Guard,1,1,42,44,0.9545454545454546
+Melting Remnant,Umbra,0,0,26,67,0.3880597014925373
+Melting Remnant,Umbra,0,1,14,14,1.0
+Melting Remnant,Umbra,1,0,22,22,1.0
+Melting Remnant,Umbra,1,1,23,24,0.9583333333333334
+Melting Remnant,Wurmkin,0,0,11,11,1.0
+Melting Remnant,Wurmkin,0,1,8,8,1.0
+Melting Remnant,Wurmkin,1,0,15,16,0.9375
+Melting Remnant,Wurmkin,1,1,19,20,0.95
+Stygian Guard,Awoken,0,0,27,48,0.5625
+Stygian Guard,Awoken,0,1,29,30,0.9666666666666667
+Stygian Guard,Awoken,1,0,22,22,1.0
+Stygian Guard,Awoken,1,1,29,30,0.9666666666666667
+Stygian Guard,Hellhorned,0,0,27,44,0.6136363636363636
+Stygian Guard,Hellhorned,0,1,13,15,0.8666666666666667
+Stygian Guard,Hellhorned,1,0,16,20,0.8
+Stygian Guard,Hellhorned,1,1,6,7,0.8571428571428571
+Stygian Guard,Melting Remnant,0,0,24,41,0.5853658536585366
+Stygian Guard,Melting Remnant,0,1,13,13,1.0
+Stygian Guard,Melting Remnant,1,0,6,9,0.6666666666666666
+Stygian Guard,Melting Remnant,1,1,11,11,1.0
+Stygian Guard,Umbra,0,0,16,24,0.6666666666666666
+Stygian Guard,Umbra,0,1,13,13,1.0
+Stygian Guard,Umbra,1,0,9,11,0.8181818181818182
+Stygian Guard,Umbra,1,1,11,11,1.0
+Stygian Guard,Wurmkin,0,0,5,6,0.8333333333333334
+Stygian Guard,Wurmkin,0,1,10,10,1.0
+Stygian Guard,Wurmkin,1,0,10,11,0.9090909090909091
+Stygian Guard,Wurmkin,1,1,5,5,1.0
+Umbra,Awoken,0,0,27,84,0.32142857142857145
+Umbra,Awoken,0,1,13,14,0.9285714285714286
+Umbra,Awoken,1,0,35,38,0.9210526315789473
+Umbra,Awoken,1,1,44,45,0.9777777777777777
+Umbra,Hellhorned,0,0,29,77,0.37662337662337664
+Umbra,Hellhorned,0,1,10,10,1.0
+Umbra,Hellhorned,1,0,29,30,0.9666666666666667
+Umbra,Hellhorned,1,1,39,43,0.9069767441860465
+Umbra,Melting Remnant,0,0,24,42,0.5714285714285714
+Umbra,Melting Remnant,0,1,6,8,0.75
+Umbra,Melting Remnant,1,0,26,32,0.8125
+Umbra,Melting Remnant,1,1,26,33,0.7878787878787878
+Umbra,Stygian Guard,0,0,18,42,0.42857142857142855
+Umbra,Stygian Guard,0,1,9,10,0.9
+Umbra,Stygian Guard,1,0,20,22,0.9090909090909091
+Umbra,Stygian Guard,1,1,18,20,0.9
+Umbra,Wurmkin,0,0,9,9,1.0
+Umbra,Wurmkin,0,1,9,9,1.0
+Umbra,Wurmkin,1,0,8,8,1.0
+Umbra,Wurmkin,1,1,12,12,1.0
+Wurmkin,Awoken,0,0,12,13,0.9230769230769231
+Wurmkin,Awoken,0,1,15,16,0.9375
+Wurmkin,Awoken,1,0,13,13,1.0
+Wurmkin,Awoken,1,1,9,9,1.0
+Wurmkin,Hellhorned,0,0,6,6,1.0
+Wurmkin,Hellhorned,0,1,4,5,0.8
+Wurmkin,Hellhorned,1,0,8,8,1.0
+Wurmkin,Hellhorned,1,1,13,13,1.0
+Wurmkin,Melting Remnant,0,0,14,14,1.0
+Wurmkin,Melting Remnant,0,1,15,15,1.0
+Wurmkin,Melting Remnant,1,0,6,7,0.8571428571428571
+Wurmkin,Melting Remnant,1,1,7,7,1.0
+Wurmkin,Stygian Guard,0,0,8,8,1.0
+Wurmkin,Stygian Guard,0,1,8,9,0.8888888888888888
+Wurmkin,Stygian Guard,1,0,10,10,1.0
+Wurmkin,Stygian Guard,1,1,13,13,1.0
+Wurmkin,Umbra,0,0,14,14,1.0
+Wurmkin,Umbra,0,1,6,6,1.0
+Wurmkin,Umbra,1,0,18,18,1.0
+Wurmkin,Umbra,1,1,12,12,1.0
